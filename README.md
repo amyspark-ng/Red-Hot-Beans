@@ -12,3 +12,4 @@ And just so you know it was kinda a pain in the butt to set up the repo and itch
 - **[Replit](https://replit.com/@amySpark-ng/Red-Hot-Beans)**
 - **[Itch.io](https://amyspark-ng.itch.io/red-hot-beans-jam)**
 - ~~Newgrounds~~ - maybe some day...
+but do check the art of the game here btw :) -> [NG-art-submission](https://www.newgrounds.com/art/view/amyspark-ng/red-hot-beans)

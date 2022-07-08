@@ -1,4 +1,4 @@
-# Red Hot Beans
+# Red Hot Beans 🌶️
 
 Entry for kajam 2022, Red Hot Beans - These beans are red and hot and you'll have to milk them down!
 

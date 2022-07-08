@@ -1,0 +1,14 @@
+.cache
+.config
+.upm
+.replit
+.txt
+helper.ts
+replit.nix
+multiplayer.js
+package-lock.json
+package.json
+run.js
+template.html
+dist
+node_modules
